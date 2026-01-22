@@ -5,7 +5,7 @@
 <tr>
 <td width="230" align="center" valign="middle">
 <img src="https://pdfify.app/icon.png" width="200"><br>
-<a href="https://mac-share-apps.github.io/.github/pdfify">
+<a href="https://ysids-apps-hub.github.io/.github/pdfify">
 <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br><br>
 <div align="center">
